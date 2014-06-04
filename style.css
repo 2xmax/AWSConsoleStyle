@@ -1,0 +1,14 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("console.aws.amazon.com") {
+    /* no footer */	
+    #consoleNavFooter{
+        display:none;
+    }
+    
+    .GP3GA1EGRC{
+        bottom: 0px !important;
+    }
+
+}
+
